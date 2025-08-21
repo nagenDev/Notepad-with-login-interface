@@ -16,11 +16,11 @@ Users can register with a username and password, log in, and then access their p
 
 ## 📸 Screenshots  
 
-| Login Page | Registration Page | Notepad |
+| Login Page | Incorrect Login | Error Messages|
 |------------|------------------|---------|
 | ![Login](https://github.com/nagenDev/Notepad-with-login-interface/blob/main/images/Screenshot%20(543).png?raw=true) | ![Register](https://github.com/nagenDev/Notepad-with-login-interface/blob/main/images/Screenshot%20(544).png?raw=true) | ![Notepad](https://github.com/nagenDev/Notepad-with-login-interface/blob/main/images/Screenshot%20(545).png?raw=true) |
 
-| Incorrect Login | Error Messages | Welcome Screen |
+|   Registration Page| Loging in  | Welcome Screen |
 |-----------------|----------------|----------------|
 | ![Incorrect](https://github.com/nagenDev/Notepad-with-login-interface/blob/main/images/Screenshot%20(546).png?raw=true) | ![Error](https://github.com/nagenDev/Notepad-with-login-interface/blob/main/images/Screenshot%20(547).png?raw=true) | ![Welcome](https://github.com/nagenDev/Notepad-with-login-interface/blob/main/images/Screenshot%20(548).png?raw=true) |
 
